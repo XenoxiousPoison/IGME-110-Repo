@@ -15,4 +15,4 @@ Below is a horizontal rule!
 https://www.rit.edu/
 [RIT](https://www.rit.edu/)
 
-![Ritchie]((https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXJdaKUrqC2o6CLBDnvI0IBzAa5J6eFzXoxA&s)
+![Ritchie](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXJdaKUrqC2o6CLBDnvI0IBzAa5J6eFzXoxA&s)
